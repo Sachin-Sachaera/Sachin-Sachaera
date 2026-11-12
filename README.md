@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Deepak Amal Winstar J Header" />
+  <img src="assets/header.svg" width="100%" alt="SACHIN R V Header" />
 </p>
 
 <p align="center">
